@@ -1,0 +1,30 @@
+<html>
+<head>
+<title>Chopper store</title>
+</head>
+<body bgcolor="1E90FF">
+<marquee direction="right"> <font face =" arial black" size="30" color="white">
+Tienda online</font></marquee>
+<hr>
+<marquee direction="right"><img src="C:\Users\mquev\Pictures\ControlCenter4\Saved Pictures\Nueva carpeta\Chopper store banner.jpg">
+</marquee>
+</hr>
+
+<br>
+<marquee> <font face="calibri" size="8" color="1f098e">
+Encuentra tus productos favoritos aqui </font>
+</marquee>
+</br>
+<br>
+<h3 align="justify"> Proximamente nuevos lanzamientos 2021</H3>
+<br><br>
+<font face="lucida calligraphy"> Quevedo Argueta Mauricio 661</font>
+<br>
+<center>
+<img src="C:\Users\mquev\Pictures\ControlCenter4\Saved Pictures\Nueva carpeta\En-Stock-Banpresto-una-pieza-Ichibansho-figura-Roronoa-Zoro-de-PVC-MODELO-DE-figura-de-acci.jpg_Q90.jpg_.jpg">
+</center>
+</br> 
+</hr>
+</body>
+</html>
+
